@@ -1,1 +1,5 @@
+
 this is child file 2 from main branch
+=======
+this is child file 2 from child branch
+
